@@ -12,11 +12,11 @@ Developed a Machine Learning project on classifying the customer by credit score
 <h4>Step 2: Check for null values and remove them if it is present</h4>
 <h4>Step 3: Do visualization using plots to understand better about the data </h4>
      <p>
-       I have used box-plot for visualization because
-       -> Visualizing Distribution: Box plots provide a quick summary of data distribution, showing the spread, central tendency, and outliers.
-       -> Outlier Detection: They are particularly effective at detecting outliers, which might be masked in histograms or bar charts.
-       -> Comparison Across Groups: Box plots are excellent for comparing distributions between different groups or datasets compactly and clearly.
-       -> No Assumption About Distribution Shape: Unlike histograms, box plots do not assume any specific shape for the distribution (e.g., normal distribution),               making them more versatile.
+       I have used box-plot for visualization because <br>
+       -> Visualizing Distribution: Box plots provide a quick summary of data distribution, showing the spread, central tendency, and outliers.<br>
+       -> Outlier Detection: They are particularly effective at detecting outliers, which might be masked in histograms or bar charts.<br>
+       -> Comparison Across Groups: Box plots are excellent for comparing distributions between different groups or datasets compactly and clearly.<br>
+       -> No Assumption About Distribution Shape: Unlike histograms, box plots do not assume any specific shape for the distribution (e.g., normal distribution), making them more versatile.<br>
      </p>
 
      
