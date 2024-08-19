@@ -1,6 +1,10 @@
 # Credit_score_classification-
 Developed a Machine Learning project on classifying the customer by credit score
 
+<h3 align="center">How to access the dataset and code?</h3>
+
+<p>Download the zip folder and then extract it. After Extracting run the code, then you will get the project</p>
+
 <h3 align="center">Why this Project ?</h3>
 <p>
     Banks and credit card companies calculate your credit score to determine your creditworthiness. It helps banks and credit card companies immediately to issue loans to customers with good creditworthiness. Today banks and credit card companies use Machine Learning algorithms to classify all the customers in their database based on their credit history.
