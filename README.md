@@ -23,3 +23,5 @@ Developed a Machine Learning project on classifying the customer by credit score
 
 <h3 align="center">Data Visualization</h3>
 
+![image](https://github.com/user-attachments/assets/0933165e-c086-4ca0-8bf6-630af86dc2fd)
+
