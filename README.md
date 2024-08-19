@@ -19,4 +19,7 @@ Developed a Machine Learning project on classifying the customer by credit score
        -> No Assumption About Distribution Shape: Unlike histograms, box plots do not assume any specific shape for the distribution (e.g., normal distribution), making them more versatile.<br>
      </p>
 
-     
+<h4>Step 4: Create a model by splitting the train and test data and showcase the results</h4>
+
+<h3 align="center">Data Visualization</h3>
+
